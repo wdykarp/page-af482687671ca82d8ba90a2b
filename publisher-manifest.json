@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "18199dab488e1d02e8ef6470",
+  "owner": "wdykarp",
+  "repo": "page-af482687671ca82d8ba90a2b",
+  "title": "最帅的夕颜",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "af482687671ca82d8ba90a2b",
+      "a": "最帅的夕颜",
+      "b": "机场官网线路发布页",
+      "entity": "最帅的夕颜",
+      "brand": "最帅的夕颜",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "685b07f7bddaa495f02edafa4060124cdbc3b0af4a97022ddc94f1de65fd6f37",
+      "content": {
+        "primary_entity": "最帅的夕颜",
+        "keyword1": "最帅的夕颜",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，聚焦海外网络加速场景，提供基础版、旗舰版与团队版三档订阅，分别对应每月100GB、300GB与1000GB流量，支持3台、5台与20台设备同时在线，按年付费可享更优价格，适合个人流媒体、游戏加速及小型团队协同使用。",
+          "AI_HERO_SUBTITLE": "最帅的夕颜，加速每一步",
+          "AI_HERO_INTRO": "最帅的夕颜提供海外加速器订阅服务，以多档套餐覆盖不同设备数与流量需求，用户可按使用场景选择基础版、旗舰版或团队版，完成订阅后搭配常用客户端配置即可开始使用。",
+          "AI_VISUAL_TITLE": "最帅的夕颜加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐灵活适配",
+          "AI_HIGHLIGHT_2": "按月或按年付费可选",
+          "AI_HIGHLIGHT_3": "主流客户端自主配置",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路适配出发，快速了解不同套餐的实际差异。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台同时在线，按常用终端数量匹配即可。",
+          "AI_FEATURE_TITLE_2": "按周期控制成本",
+          "AI_FEATURE_TEXT_2": "三档套餐均提供月付与年付选项，年付方案单价更低，长期使用可优先考虑按年订阅。",
+          "AI_FEATURE_TITLE_3": "按客户端配订阅",
+          "AI_FEATURE_TEXT_3": "在手机、电脑或路由器上安装对应客户端，导入订阅链接后按客户端文档调整代理与路由设置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版每月100GB适合轻度使用，旗舰版每月300GB并带专线游戏优化，团队版每月1000GB支持20台设备，按年付价格分别为150元、350元和850元。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "依照设备数量与流量需求选定套餐，再完成客户端配置即可接入。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TEXT_1": "根据常用设备数与月流量预估，在基础版、旗舰版与团队版之间选择合适的一档。",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量和线路特性，核对是否满足流媒体或游戏加速需求。",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_STEP_TEXT_3": "在目标设备安装客户端，导入订阅链接，并按照客户端文档完成代理规则与路由设置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备对应不同客户端，可依据系统类型选择常见工具并导入订阅信息。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备同时在线；旗舰版每月300GB，支持5台设备，并带有IPLC专线游戏加速优化和全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月1000GB流量，支持20台设备同时在线，提供VIP专属高带宽节点与企业定制路由选项，适合小型团队或有多终端需求的用户。",
+          "AI_FAQ_QUESTION_3": "按年付费划算吗？",
+          "AI_FAQ_ANSWER_3": "按年付费单月成本更低，基础版每年150元，旗舰版每年350元，团队版每年850元，长期使用可以优先考虑年付方式。",
+          "AI_FAQ_QUESTION_4": "如何在设备上使用订阅？",
+          "AI_FAQ_ANSWER_4": "在手机或电脑安装对应客户端，复制订阅链接并导入，然后参照该客户端的配置文档设置代理模式和路由规则即可使用。",
+          "AI_FAQ_QUESTION_5": "支持哪些客户端？",
+          "AI_FAQ_ANSWER_5": "可以搭配常见的跨平台客户端使用，具体选择取决于设备系统，建议根据手机、电脑或路由器的类型安装对应工具并导入订阅。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻加速",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定最帅的夕颜套餐，完成订阅配置后即可开始海外加速体验。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "npbeb.cn",
+    "host": "npbeb.cn"
+  },
+  "file_hashes": {
+    "index.html": "f724881e64263777db058c7386360bb05407e5743b6e76bbe290cfba8981a0f7",
+    "sitemap.xml": "d3bd95ea651ab0624ecbbce56e60781415c523d30c25e694dbe6d11df8785bda",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1e195d85c648b0f63f15e1ae2ca1b4ecaa6f59cc065aa90f3fec4fed6f135d57",
+    "robots.txt": "524a38f2a93f364cddb093a7514812c12524fabed7ba38ba83710d4c90300ab4",
+    "c49fa5ec61e16deff75042fc6db34141.txt": "4634b868491b6e127643f4c49f65b3dd86dc1abf4984adf0187d509455681380"
+  },
+  "revision": "e3f2fd20bdcd77d3707a5eca140fc3db787fe3844904283dcf0c724166c3bdd2"
+}
